@@ -30,7 +30,7 @@
 
 ## PACKAGES AND LIBRARIES
 * pandas as pd
-*  sqlite3
+* sqlite3
 * import time
 * streamlit as slt
 * import datetime
